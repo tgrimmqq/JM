@@ -1,0 +1,3 @@
+Задание 2. Укажите id элемента выпадающего списка "Оператор" на https://tarifer.ru/calculator;
+
+ id="select2-operator-ez-container"
